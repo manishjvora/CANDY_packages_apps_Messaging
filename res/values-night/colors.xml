@@ -15,7 +15,7 @@
     limitations under the License.
 -->
 <resources>
-    <color name="primary_color">#606060</color>
+    <color name="primary_color">#000000</color>
     <color name="permission_check_activity_background">@color/primary_color</color>
 
     <!--  Action bar -->
@@ -124,7 +124,7 @@
     <color name="people_and_options_header_text">#ffffff</color>
     <color name="people_and_options_list_divider">#aaaaaa</color>
 
-    <color name="fab_color">@color/primary_color</color>
+    <color name="fab_color">#33b5e5</color>
     <color name="fab_pressed_color">#3ea4dc</color>
     <color name="fab_ripple">#40ffffff</color>
 
